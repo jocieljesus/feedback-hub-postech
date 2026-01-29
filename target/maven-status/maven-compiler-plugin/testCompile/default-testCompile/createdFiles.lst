@@ -1,7 +1,0 @@
-com\fiap\FunctionIT.class
-com\fiap\GreetingResourceIT.class
-com\fiap\HttpResponseMessageMock.class
-com\fiap\HttpResponseMessageMock$HttpResponseMessageBuilderMock.class
-com\fiap\GreetingResourceTest.class
-com\fiap\FunctionTest$1.class
-com\fiap\FunctionTest.class
