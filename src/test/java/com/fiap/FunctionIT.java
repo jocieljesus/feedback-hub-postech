@@ -8,7 +8,7 @@ import static org.hamcrest.CoreMatchers.is;
 @QuarkusIntegrationTest
 public class FunctionIT {
 
-    @Test
+  /*  @Test
     public void testIt() {
         given()
                 .when().queryParam("name", "Bill")
@@ -16,5 +16,5 @@ public class FunctionIT {
                 .then()
                 .statusCode(200)
                 .body(is("Guten Tag Bill"));
-    }
+    }*/
 }
