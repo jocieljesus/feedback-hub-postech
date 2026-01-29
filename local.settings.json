@@ -1,0 +1,15 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "java",
+    
+    "DB_USER": "postech",
+    "DB_PASSWORD": "Fiap@2026",
+    "DB_HOST": "localhost",
+    "DB_NAME": "db-postech",
+    
+    "AZURE_SERVICE_BUS_CONNECTION_STRING": "Endpoint=sb://seu-namespace...",
+    "AZURE_STORAGE_CONNECTION_STRING": "DefaultEndpointsProtocol=https;AccountName=..."
+  }
+}
